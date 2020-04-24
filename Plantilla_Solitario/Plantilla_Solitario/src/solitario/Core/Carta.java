@@ -9,6 +9,8 @@ package solitario.Core;
  */
 public class Carta {
 		
+	//prueba
+	
 
 
 }
